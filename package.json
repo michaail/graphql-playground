@@ -37,7 +37,7 @@
     "express-graphql": "^0.7.1",
     "graphql": "^14.1.1",
     "pg": "^7.8.1",
-    "sequelize": "^4.42.0",
+    "sequelize": "^5.8.7",
     "sequelize-cli": "^5.4.0"
   }
 }
